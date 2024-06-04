@@ -61,7 +61,7 @@
  
     //按下傳送按鈕後執行
     function submitHandler(){
-        var to = "contact@example.com";//寫死的傳送對象 就是公司的信箱 不會顯示在網頁上
+        var to = "nyanglinaung555@gmail.com";//寫死的傳送對象 就是公司的信箱 不會顯示在網頁上
         var name = nameText.value;//讀取ID為 nameTextuser 物件中的值
         var email = emailText.value;
         var tel = telText.value;
